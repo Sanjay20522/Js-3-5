@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Butter Masala",
+    "type": "Veg"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Biryani",
+    "type": "Non-Veg"
+  },
+  {
+    "id": 3,
+    "name": "Veg Fried Rice",
+    "type": "Veg"
+  }
+]
