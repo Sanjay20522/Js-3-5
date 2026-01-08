@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Arun",
+    "email":"arunrio321@gmail.com",
+    "age": 22,
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 2,
+    "name": "Kumar",
+    "email":"kumar561@gmail.com",
+    "age": 24,
+    "role": "Backend Developer"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "email":"priya987@gmail.com",
+    "age": 21,
+    "role": "UI Designer"
+  }
+]
